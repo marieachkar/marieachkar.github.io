@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+ font-family: 'Lora', serif;
+font-family: 'Playfair Display', serif;
   max-width: 70rem;
-  margin-left: 10px
-  margin-right: 10px
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 header {
@@ -27,6 +28,7 @@ img {
 }
 
 h1 {
+  font-family: 'Playfair Display', serif;
   font-style: italic;
   font-size: 40px;
 }
@@ -34,6 +36,7 @@ h1 {
 h2 {
   font-size: 24px;
   margin-bottom: 1.5rem;
+  font-family: 'Playfair Display', serif;
 }
 
 p {
