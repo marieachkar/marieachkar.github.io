@@ -1,0 +1,57 @@
+body {
+ font-family: 'Lora', serif;
+font-family: 'Playfair Display', serif;
+  max-width: 70rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+header {
+  background-color:#080096;
+  color:whitesmoke;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px
+}
+
+.my-paragraph {
+  margin-top: 100px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
